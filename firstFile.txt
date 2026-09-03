@@ -4,7 +4,7 @@
 4 -> change from old dir
 5 -> new changed line
 6 -> new changed line
-7
+7-> some change
 8
 9 -> change from new dir
 10 -> change from new dir
