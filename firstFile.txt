@@ -1,7 +1,7 @@
 1 -> changed line
 2 -> changed line
-3
-4
+3 -> change from old dir
+4 -> change from old dir
 5 -> new changed line
 6 -> new changed line
 7
